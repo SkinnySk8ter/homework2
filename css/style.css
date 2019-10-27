@@ -232,3 +232,18 @@ body {
     width: 200px;
     height: 200px;
   }
+
+
+  @media (width: 640px) {
+    div {
+      color: red;}
+    }
+
+    @media (width: 768px) {
+      div {
+        color: gray;}
+      }
+
+      @media (width: 989px) {
+        div {
+          ;
